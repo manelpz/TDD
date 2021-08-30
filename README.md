@@ -3,4 +3,4 @@
  Test-Driven Development in C# examples from pluralsight
 
 
- Exercise for TDD on .Net Core
+ Exercise for TDD on .Net 
